@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    input {
+        @apply border-[1px] p-1
+    }
+}
+
+@layer components {
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 5px 15px;
+    }
+
+    .button {
+        @apply text-sm bg-sky-600 text-white px-3 py-1 rounded-sm hover:scale-[1.025];
+    }
+}
+
