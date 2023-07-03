@@ -1,6 +1,7 @@
 # TS React Multistep Form
-* Multistep Form which made with custom hooks: useLocalStoage.ts & useMultistepForm.ts.
-* To integrate to your project just review my code and copy useMultiStepForm.ts hook
+Multistep Form which made with custom hooks: useLocalStoage.ts & useMultistepForm.ts.
+
+To integrate to your project just review my code and copy useMultiStepForm.ts hook
 
 https://ts-multistep-form.vercel.app
 
